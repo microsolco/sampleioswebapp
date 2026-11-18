@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "PWA Lab per iOS 27",
+  "short_name": "PWA Lab",
+  "description": "Mostra tutto quello che una PWA può fare su iOS 27.2",
+  "lang": "it",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#0a84ff",
+  "categories": ["utilities", "developer"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
